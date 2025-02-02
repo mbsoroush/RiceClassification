@@ -1,5 +1,5 @@
 # Rice Classification using PyTorch 🌾📊
-This repository contains a deep learning project for classifying different rice varieties using Convolutional Neural Networks (CNNs) implemented in PyTorch. The dataset includes five types of rice: Arborio, Basmati, Ipsala, Jasmine, and Karacadag.
+This repository contains a deep learning project for classifying different rice varieties using Convolutional Neural Networks (CNNs) implemented in PyTorch and TensorFlow. The dataset includes five types of rice: Arborio, Basmati, Ipsala, Jasmine, and Karacadag.
 
 
 🚀 Features
