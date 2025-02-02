@@ -1,2 +1,16 @@
-# Rice Image Classification
-Rice, which is among the most widely produced grain products worldwide, has many genetic varieties. These varieties are separated from each other due to some of their features. These are usually features such as texture, shape, and color. With these features that distinguish rice varieties, it is possible to classify and evaluate the quality of seeds. In this study, Arborio, Basmati, Ipsala, Jasmine and Karacadag, which are five different varieties of rice often grown in Turkey, were used. A total of 75,000 grain images, 15,000 from each of these varieties, are included in the dataset.
+# Rice Classification using PyTorch 🌾📊
+This repository contains a deep learning project for classifying different rice varieties using Convolutional Neural Networks (CNNs) implemented in PyTorch. The dataset includes five types of rice: Arborio, Basmati, Ipsala, Jasmine, and Karacadag.
+
+
+🚀 Features
+Dataset Preprocessing: Splitting images into train, validation, and test sets.
+
+Data Augmentation: Applied transformations such as resizing, flipping, and rotation.
+
+CNN Models: Two different CNN architectures implemented and evaluated.
+
+Training & Optimization: Trained using cross-entropy loss and Adam optimizer.
+
+Model Evaluation: Accuracy, confusion matrices, and classification reports generated.
+
+Visualization: Model performance plotted using training history and predictions.
