@@ -10,6 +10,7 @@ You could find the datase in my kaggle page:
 ## 🚀 Features
 
 Dataset Preprocessing: Splitting images into train, validation, and test sets.
+
 Data Augmentation: Applied transformations such as resizing, flipping, and rotation.
 
 CNN Models: Two different CNN architectures implemented and evaluated.
