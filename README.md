@@ -7,7 +7,7 @@ The dataset used in this project is available on my Kaggle page:
 👉 [Rice Images Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
 
 
-## 🚀 Features
+## 📌 Features
 - Dataset Preprocessing: Splitting images into train, validation, and test sets.
 - Data Augmentation: Applied transformations such as resizing, flipping, and rotation.
 - CNN Models: Two different CNN architectures implemented and evaluated.
