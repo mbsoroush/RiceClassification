@@ -1,4 +1,4 @@
-# 🌾 Rice Classification
+# 🌾 Rice Variety Classification
 
 > **From small CNNs and a TensorFlow vs PyTorch comparison to a 7-backbone transfer-learning benchmark for rice variety classification**
 
