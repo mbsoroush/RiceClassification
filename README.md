@@ -265,8 +265,8 @@ Common issues and their solutions when running the notebooks:
 
 The project includes the following components:
 
-1. ✅ Framework comparison notebook → `notebooks/01_tensorflow_vs_pytorch.ipynb`  
-2. ✅ Transfer-learning benchmark notebook → `notebooks/02_transfer_learning_benchmark.ipynb`  
+1. ✅ Framework comparison notebook → `notebooks/01_rice_rlassification-tensorflow-vs-pytorch.ipynb` ([Kaggle version](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch)
+2. ✅ Transfer-learning benchmark notebook → `02_rice_classification_transfer_learning.ipynb` ([Kaggle version](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning)) 
 3. ✅ Dependencies → `requirements-tensorflow-vs-pytorch.txt`, `requirements-transfer-learning.txt`  
 4. ✅ Figures → `results/figures/`  
 5. ✅ Dataset → Rice images (75,000 images, 5 varieties) on Kaggle (`rice-images-dataset`)  
